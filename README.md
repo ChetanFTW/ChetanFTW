@@ -7,21 +7,45 @@
 
 
 <!-- <h3 align="center">🌟 A passionate Full Stack Developer 🌟</h3> -->
+# Quick intro
+Final-year B.Tech student with a passion for problem solving. Experienced in Python, Dart, JavaScript, Flutter, Django, and React through internships at Zyranow and Lead2Money, building scalable apps and automation tools.
+As a freelancer, I developed an AI chatbot using Python and NLP and contribute to open-source projects like Team shiksha.
+
+## Tech Stack
+
+<div style="width: 900px; margin: 0 auto;"> 
+  <table width="100%">
+    <tr>
+      <td width="28%" align="center" valign="middle">
+        <img src="https://cms.mistral.ai/assets/920e56ee-25c5-439d-bd31-fbdf5c92c87f" alt="Mistral GIF" height="250" />
+      </td>
+      <td width="72%" style="text-align: right; font-family: monospace; font-size: 2rem; line-height: 1.6; vertical-align: middle;">
+        <strong>💼 Tech Stack</strong><br /><br />
+       ➤ Languages: Python, Dart, JavaScript<br />
+       ➤ Frameworks: Django, Flask, React, Flutter<br />
+       ➤ Databases: PostgreSQL, MongoDB, Firestore, SQL<br />
+       ➤ Dev Tools: GitHub Actions, Docker, Kubernetes (Basics), Postman, VS Code, PyCharm<br />
+       ➤ Others: Linux, KVM/VM, NLP, UI/UX Design, Design Systems
+      </td>
+    </tr>
+  </table>
+</div>
 
 
-<tr>
-            <td colspan="2">
-                  <br />
-                  <div>
-                        📱&nbsp; <code>Currently focused on end-to-end <a href="https://www.linkedin.com/in/chetan-jangir/">Python</a> Automation Development and <a href="https://www.linkedin.com/in/chetan-jangir/"> Flutter</a> iOS/Android privacy-first PWA experiences</code><br/>
-                        💬&nbsp; <code>For professional inquiries, feel free to reach out to me on <a href="https://www.linkedin.com/in/chetan-jangir/">Linkdin</a>. I’d love to connect and explore opportunities to collaborate!</code><br /><br />
-                        💼&nbsp;  <code>Linux</code>, <code>KVM/VM</code>,  <code>Python</code> <code>Django</code>, <code>SQL, Postgre, Mongodb</code>, <code>UI/UX Design & Development</code>, <code>Design Systems</code>, <code>AI & ML</code>,                                        <code>Privacy First PWA</code>
-                  </div>
-                  <br />
-            </td>
-      </tr>
 
-<img src="https://cms.mistral.ai/assets/920e56ee-25c5-439d-bd31-fbdf5c92c87f" alt="Mistral GIF" height="200">
+## Let’s Connect
+
+I’m excited to join a dynamic team and collaborate on meaningful projects.  
+Feel free to reach out anytime!
+
+✉️ **Email:** devchetan42@gmail.com  
+🔗 **LinkedIn:** [Say hi to me!](https://www.linkedin.com/in/chetandoesdev)  
+
+Curious to learn more?  
+Explore my little corner where I showcase my work and passions.  
+
+Looking forward to connecting! 🚀
+
 
 
    <p align="center">
@@ -34,9 +58,6 @@
 <p align="center"> <img  src="https://komarev.com/ghpvc/?username=devchetan01&label=Profile%20views&color=0e75b6&style=flat" alt="devchetan01" /> </p>
 
 
-<p align="center">
-💬 Team Collaboration &nbsp;&nbsp;&nbsp;&nbsp; 🧠 Agile Adaptability &nbsp;&nbsp;&nbsp;&nbsp; ⚙️ Critical Thinking  <br>
-📹 Content Creation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧩 Problem Solving &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎸 Guitarist
 
 
 
