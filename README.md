@@ -1,6 +1,15 @@
-<h1 align="center">👋Hi, I'm Chetan</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=35A900&width=535&height=100&lines=%F0%9F%91%8BHii%2C+I'm+Chetan" alt="Typing SVG" />
+  </a>
+  <hr style="width: 50%; margin: 0px auto; border: 1px solid #35A900" />
+</p>
+
+
 <!-- <h3 align="center">🌟 A passionate Full Stack Developer 🌟</h3> -->
-      <tr>
+
+
+<tr>
             <td colspan="2">
                   <br />
                   <div>
