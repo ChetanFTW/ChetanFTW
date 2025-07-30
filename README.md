@@ -1,13 +1,10 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=35A900&width=535&height=100&lines=%F0%9F%91%8BHii%2C+I'm+Chetan" alt="Typing SVG" />
-  </a>
-  <hr style="width: 50%; margin: 0px auto; border: 1px solid #35A900" />
-</p>
+<h1 align="center">Hello, I’m Chetan 👋</h1>
+
+
 
 
 <!-- <h3 align="center">🌟 A passionate Full Stack Developer 🌟</h3> -->
-# Quick intro
+## Quick intro
 Final-year B.Tech student with a passion for problem solving. Experienced in Python, Dart, JavaScript, Flutter, Django, and React through internships at Zyranow and Lead2Money, building scalable apps and automation tools.
 As a freelancer, I developed an AI chatbot using Python and NLP and contribute to open-source projects like Team shiksha.
 
