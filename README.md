@@ -22,7 +22,7 @@ As a freelancer, I developed an AI chatbot using Python and NLP and contribute t
        ➤ Frameworks: Django, Flask, React, Flutter<br />
        ➤ Databases: PostgreSQL, MongoDB, Firestore, SQL<br />
        ➤ Dev Tools: GitHub Actions, Docker, Kubernetes (Basics), Postman, VS Code, PyCharm<br />
-       ➤ Others: Linux, KVM/VM, NLP, UI/UX Design, Design Systems
+       ➤ Additional: Linux, KVM/VM, NLP, UI/UX Design, Design Systems
       </td>
     </tr>
   </table>
