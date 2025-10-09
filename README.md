@@ -43,7 +43,7 @@ Explore my little corner where I showcase my work and passions.
 
 Looking forward to connecting! 🚀
 
-
+[![An image of @chetanftw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chetanftw)](https://holopin.io/@chetanftw)
 
    <p align="center">
         █▀▀ █░█ █▀▀ █▀▀ █▀█ █▀ █<br>
