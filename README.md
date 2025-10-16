@@ -5,7 +5,7 @@
 
 <!-- <h3 align="center">🌟 A passionate Full Stack Developer 🌟</h3> -->
 ## Quick intro
-Passion for problem solving. Experienced in Linux, Docker, Python, JavaScript, Flutter, Django, and React through internships at Zyranow and Lead2Money, building scalable apps and automation tools.
+Passion for problem solving. Experienced in Linux, Docker, Python, JavaScript, Golang, Django, and React through internships at Zyranow and Lead2Money, building scalable apps and automation tools.
 As a freelancer, I developed an AI chatbot using Python and NLP and contribute to open-source projects like Team shiksha.
 
 ## Tech Stack
@@ -18,7 +18,7 @@ As a freelancer, I developed an AI chatbot using Python and NLP and contribute t
       </td>
       <td width="72%" style="text-align: right; font-family: monospace; font-size: 2rem; line-height: 1.6; vertical-align: middle;">
         <strong>💼 Tech Stack</strong><br /><br />
-       ➤ Languages: Python, Dart, JavaScript<br />
+       ➤ Languages: Python, Golang, JavaScript<br />
        ➤ Frameworks: Django, Flask, React, Flutter<br />
        ➤ Databases: PostgreSQL, MongoDB, Firestore, SQL<br />
        ➤ Dev Tools: GitHub Actions, Docker, Kubernetes (Basics), Postman, VS Code, PyCharm<br />
