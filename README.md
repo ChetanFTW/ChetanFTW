@@ -19,7 +19,7 @@ As a freelancer, I developed an AI chatbot using Python and NLP and contribute t
       <td width="72%" style="text-align: right; font-family: monospace; font-size: 2rem; line-height: 1.6; vertical-align: middle;">
         <strong>💼 Tech Stack</strong><br /><br />
        ➤ Languages: Python, Golang, JavaScript<br />
-       ➤ Frameworks: Django, Flask, React, Flutter<br />
+       ➤ Frameworks: Django, FastAPI, Flask, React<br />
        ➤ Databases: PostgreSQL, MongoDB, Firestore, SQL<br />
        ➤ Dev Tools: GitHub Actions, Docker, Kubernetes (Basics), Postman, VS Code, PyCharm<br />
        ➤ Additional: Linux, KVM/VM, NLP, UI/UX Design, Design Systems
