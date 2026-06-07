@@ -5,8 +5,7 @@
 
 <!-- <h3 align="center">🌟 A passionate Full Stack Developer 🌟</h3> -->
 ## Quick intro
-Passion for problem solving. Experienced in Linux, Docker, Python, JavaScript, Golang, Django, and React through internships at Zyranow and Lead2Money, building scalable apps and automation tools.
-As a freelancer, I developed an AI chatbot using Python and NLP and contribute to open-source projects like Team shiksha.
+Building infra that helps ***AI*** help itself. Automating cloud, chaos, and pipelines so machines can focus on what matters. Worked with ***@ISRO*** on space-grade zero-fault automation and ***open source at @Layer5*** on cloud-native CI/CD. Across industries, I build self-healing systems that handle 10k signals per second, collapse noise into action, and teach machines to debug themselves
 
 ## Tech Stack
 
@@ -27,6 +26,8 @@ As a freelancer, I developed an AI chatbot using Python and NLP and contribute t
     </tr>
   </table>
 </div>
+
+
 
 
 
