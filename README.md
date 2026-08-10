@@ -13,7 +13,7 @@ Building infra that helps ***AI*** help itself. Automating cloud, chaos, and pip
   <table width="100%">
     <tr>
       <td width="28%" align="center" valign="middle">
-        <img src="https://cms.mistral.ai/assets/920e56ee-25c5-439d-bd31-fbdf5c92c87f" alt="Mistral GIF" height="250" />
+        <img src="https://corti.com/content/images/size/w2000/2025/05/lechat-gif.gif" alt="Mistral GIF" height="250" />
       </td>
       <td width="72%" style="text-align: right; font-family: monospace; font-size: 2rem; line-height: 1.6; vertical-align: middle;">
         <strong>💼 Tech Stack</strong><br /><br />
